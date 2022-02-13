@@ -1,0 +1,129 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* .gitignore
+* .idea\
+* .idea\.name
+* .idea\compiler.xml
+* .idea\copyright\
+* .idea\copyright\profiles_settings.xml
+* .idea\encodings.xml
+* .idea\libraries\
+* .idea\libraries\adad_2_9.xml
+* .idea\libraries\click.xml
+* .idea\libraries\libs.xml
+* .idea\libraries\libs2.xml
+* .idea\misc.xml
+* .idea\modules.xml
+* .idea\scopes\
+* .idea\scopes\scope_settings.xml
+* .idea\uiDesigner.xml
+* .idea\vcs.xml
+* .idea\workspace.xml
+* LICENSE
+* Paint for Kids.iml
+* PaintForKids-master.apk
+* PaintForKids-master.iml
+* README.md
+* ic_launcher-web.png
+* out\
+* out\production\
+* out\production\PaintForKids-master\
+* out\production\PaintForKids-master\PaintForKids-master.apk
+* out\production\PaintForKids-master\PaintForKids-master.unaligned.apk
+* out\production\PaintForKids-master\com\
+* out\production\PaintForKids-master\com\sabadroid\
+* out\production\PaintForKids-master\com\sabadroid\kidenlearn\
+* out\production\PaintForKids-master\com\sabadroid\kidenlearn\AlphaPatternDrawable.class
+* out\production\PaintForKids-master\com\sabadroid\kidenlearn\Animal$1.class
+* out\production\PaintForKids-master\com\sabadroid\kidenlearn\Animal.class
+* out\production\PaintForKids-master\com\sabadroid\kidenlearn\BuildConfig.class
+* out\production\PaintForKids-master\com\sabadroid\kidenlearn\ColorPickerView$OnColorChangedListener.class
+* out\production\PaintForKids-master\com\sabadroid\kidenlearn\ColorPickerView.class
+* out\production\PaintForKids-master\com\sabadroid\kidenlearn\FirstActivity$1.class
+* out\production\PaintForKids-master\com\sabadroid\kidenlearn\FirstActivity.class
+* out\production\PaintForKids-master\com\sabadroid\kidenlearn\Generic$1.class
+* out\production\PaintForKids-master\com\sabadroid\kidenlearn\Generic$2.class
+* out\production\PaintForKids-master\com\sabadroid\kidenlearn\Generic$3.class
+* out\production\PaintForKids-master\com\sabadroid\kidenlearn\Generic$4.class
+* out\production\PaintForKids-master\com\sabadroid\kidenlearn\Generic$PaintObject.class
+* out\production\PaintForKids-master\com\sabadroid\kidenlearn\Generic.class
+* out\production\PaintForKids-master\com\sabadroid\kidenlearn\Main$1.class
+* out\production\PaintForKids-master\com\sabadroid\kidenlearn\Main$2.class
+* out\production\PaintForKids-master\com\sabadroid\kidenlearn\Main$3.class
+* out\production\PaintForKids-master\com\sabadroid\kidenlearn\Main$4.class
+* out\production\PaintForKids-master\com\sabadroid\kidenlearn\Main$5.class
+* out\production\PaintForKids-master\com\sabadroid\kidenlearn\Main.class
+* out\production\PaintForKids-master\com\sabadroid\kidenlearn\PaintView$Node.class
+* out\production\PaintForKids-master\com\sabadroid\kidenlearn\PaintView.class
+* out\production\PaintForKids-master\com\sabadroid\kidenlearn\Paint_Activity$1$1.class
+* out\production\PaintForKids-master\com\sabadroid\kidenlearn\Paint_Activity$1$2.class
+* out\production\PaintForKids-master\com\sabadroid\kidenlearn\Paint_Activity$1$3.class
+* out\production\PaintForKids-master\com\sabadroid\kidenlearn\Paint_Activity$1.class
+* out\production\PaintForKids-master\com\sabadroid\kidenlearn\Paint_Activity$2.class
+* out\production\PaintForKids-master\com\sabadroid\kidenlearn\Paint_Activity$MyCountDownTimer.class
+* out\production\PaintForKids-master\com\sabadroid\kidenlearn\Paint_Activity.class
+* out\production\PaintForKids-master\com\sabadroid\kidenlearn\R$anim.class
+* out\production\PaintForKids-master\com\sabadroid\kidenlearn\R$array.class
+* out\production\PaintForKids-master\com\sabadroid\kidenlearn\R$attr.class
+* out\production\PaintForKids-master\com\sabadroid\kidenlearn\R$color.class
+* out\production\PaintForKids-master\com\sabadroid\kidenlearn\R$dimen.class
+* out\production\PaintForKids-master\com\sabadroid\kidenlearn\R$drawable.class
+* out\production\PaintForKids-master\com\sabadroid\kidenlearn\R$id.class
+* out\production\PaintForKids-master\com\sabadroid\kidenlearn\R$layout.class
+* out\production\PaintForKids-master\com\sabadroid\kidenlearn\R$menu.class
+* out\production\PaintForKids-master\com\sabadroid\kidenlearn\R$raw.class
+* out\production\PaintForKids-master\com\sabadroid\kidenlearn\R$string.class
+* out\production\PaintForKids-master\com\sabadroid\kidenlearn\R$style.class
+* out\production\PaintForKids-master\com\sabadroid\kidenlearn\R.class
+* out\production\PaintForKids-master\com\sabadroid\kidenlearn\Rectangle.class
+* out\production\PaintForKids-master\com\sabadroid\kidenlearn\SaveImage$1.class
+* out\production\PaintForKids-master\com\sabadroid\kidenlearn\SaveImage.class
+* proguard-project.txt
+
+Replaced Jars with Dependencies:
+--------------------------------
+The importer recognized the following .jar files as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the .jar file in your project was of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the jar replacement in the import wizard and try again:
+
+android-support-v4.jar => com.android.support:support-v4:18.0.0
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app\src\main\AndroidManifest.xml
+* assets\ => app\src\main\assets\
+* libs\adad-2.9.jar => app\libs\adad-2.9.jar
+* libs\click.jar => app\libs\click.jar
+* libs\GoogleAdMobAdsSdk-6.4.1.jar => app\libs\GoogleAdMobAdsSdk-6.4.1.jar
+* res\ => app\src\main\res\
+* src\ => app\src\main\java\
+* more.PNG => more.png
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

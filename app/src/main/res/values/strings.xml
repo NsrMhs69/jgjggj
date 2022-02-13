@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">نفاشی با آهنگ | نقاشی موزیکال</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="exe1title">Paint</string>
+    <string name="exe2title">Animal</string>
+    <string name="exe3title">Transport</string>
+    <string name="exe4title">Vegetable</string>
+    <string name="imgdesc">Trace</string>
+    <string name="rating_market" desc="مارکت برای امتیاز دادن">bazaar://details?id=</string>
+    <string name="developer_id" desc="سایر برنامه های این توسعه دهنده">bazaar://collection?slug=by_author&amp;aid=sabadroid</string>
+
+    <string name="appKey">79dcfca1-303a-4737-9be5-ac4cd31834fa</string>
+    <string name="nativeBanner">150cc509-2fe7-4caa-a632-3f6bce8b15da</string>
+    <string name="interstitial">73987bd6-2744-487f-82fa-4ff3c9ce8da3</string>
+    <string name="appOpen">b647ea11-9a00-42bf-ad23-9aeda345eef1</string>
+    <string name="market">Myket</string><!--    Myket--><!--    PlayStore--><!--  CafeBazar-->
+    <string name="cafe_link">https://cafebazaar.ir/app/</string>
+    <string name="myket_link">https://myket.ir/app/</string>
+    <string name="updateTitle">به روز رسانی !</string>
+    <string name="ok">باشه</string>
+
+    <!--
+    <string name="str_tomoto">Tomato</string>
+    <string name="str_brinjal">Brinjal</string>
+    <string name="str_carrot">Carrot</string>
+    <string name="str_onion">Onion</string>
+    <string name="str_cucumber">Cucumber</string>
+    <string name="str_potato">Potato</string>
+    <string name="str_capsicum">Capsicum</string>
+    <string name="str_beetroot">Beetroot</string>
+    <string name="str_car">Car</string>
+    <string name="str_bus">Bus</string>
+    <string name="str_excavator">Excavator</string>
+    <string name="str_schoolbus">School Bus</string>
+    <string name="str_ambulance">Ambulance</string>
+    <string name="str_truck">Truck</string>
+    <string name="str_train">Train</string>
+    <string name="str_policecar">Police Car</string>
+    <string name="str_monkey">Monkey</string>
+    <string name="str_giraffe">Giraffe</string>
+    <string name="str_elephant">Elephant</string>
+    <string name="str_lion">Lion</string>
+    <string name="str_camel">Camel</string>
+    <string name="str_cow">Cow</string>
+    <string name="str_horse">Horse</string>
+    <string name="str_kangaroo">Kangaroo</string>
+     -->
+
+    <string-array name="planets_array">
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+        <item>Jupiter</item>
+        <item>Saturn</item>
+        <item>Uranus</item>
+        <item>Neptune</item>
+    </string-array>
+
+
+
+</resources>

@@ -1,0 +1,150 @@
+[
+    {
+        "merged": "C:\\Elsa\\queen\\Paint2\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable_star_blue.png.flat",
+        "source": "C:\\Elsa\\queen\\Paint2\\project\\app\\src\\main\\res\\drawable\\star_blue.png"
+    },
+    {
+        "merged": "C:\\Elsa\\queen\\Paint2\\project\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Elsa\\queen\\Paint2\\project\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Elsa\\queen\\Paint2\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_hdpi.png.flat",
+        "source": "C:\\Elsa\\queen\\Paint2\\project\\app\\src\\main\\res\\drawable-hdpi\\ic_hdpi.png"
+    },
+    {
+        "merged": "C:\\Elsa\\queen\\Paint2\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic.png.flat",
+        "source": "C:\\Elsa\\queen\\Paint2\\project\\app\\src\\main\\res\\drawable-xhdpi\\ic.png"
+    },
+    {
+        "merged": "C:\\Elsa\\queen\\Paint2\\project\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Elsa\\queen\\Paint2\\project\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Elsa\\queen\\Paint2\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable_star_pink.png.flat",
+        "source": "C:\\Elsa\\queen\\Paint2\\project\\app\\src\\main\\res\\drawable\\star_pink.png"
+    },
+    {
+        "merged": "C:\\Elsa\\queen\\Paint2\\project\\app\\build\\intermediates\\res\\merged\\release\\layout_penlayout.xml.flat",
+        "source": "C:\\Elsa\\queen\\Paint2\\project\\app\\src\\main\\res\\layout\\penlayout.xml"
+    },
+    {
+        "merged": "C:\\Elsa\\queen\\Paint2\\project\\app\\build\\intermediates\\res\\merged\\release\\xml_config_net.xml.flat",
+        "source": "C:\\Elsa\\queen\\Paint2\\project\\app\\src\\main\\res\\xml\\config_net.xml"
+    },
+    {
+        "merged": "C:\\Elsa\\queen\\Paint2\\project\\app\\build\\intermediates\\res\\merged\\release\\layout_colorpickerlayout.xml.flat",
+        "source": "C:\\Elsa\\queen\\Paint2\\project\\app\\src\\main\\res\\layout\\colorpickerlayout.xml"
+    },
+    {
+        "merged": "C:\\Elsa\\queen\\Paint2\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic.png.flat",
+        "source": "C:\\Elsa\\queen\\Paint2\\project\\app\\src\\main\\res\\drawable-hdpi\\ic.png"
+    },
+    {
+        "merged": "C:\\Elsa\\queen\\Paint2\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_mdpi.png.flat",
+        "source": "C:\\Elsa\\queen\\Paint2\\project\\app\\src\\main\\res\\drawable-hdpi\\ic_mdpi.png"
+    },
+    {
+        "merged": "C:\\Elsa\\queen\\Paint2\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable_bg.jpg.flat",
+        "source": "C:\\Elsa\\queen\\Paint2\\project\\app\\src\\main\\res\\drawable\\bg.jpg"
+    },
+    {
+        "merged": "C:\\Elsa\\queen\\Paint2\\project\\app\\build\\intermediates\\res\\merged\\release\\menu_main.xml.flat",
+        "source": "C:\\Elsa\\queen\\Paint2\\project\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Elsa\\queen\\Paint2\\project\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Elsa\\queen\\Paint2\\project\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Elsa\\queen\\Paint2\\project\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_paint.xml.flat",
+        "source": "C:\\Elsa\\queen\\Paint2\\project\\app\\src\\main\\res\\layout\\activity_paint.xml"
+    },
+    {
+        "merged": "C:\\Elsa\\queen\\Paint2\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable_pen.png.flat",
+        "source": "C:\\Elsa\\queen\\Paint2\\project\\app\\src\\main\\res\\drawable\\pen.png"
+    },
+    {
+        "merged": "C:\\Elsa\\queen\\Paint2\\project\\app\\build\\intermediates\\res\\merged\\release\\layout_adivery_native_ad_layout.xml.flat",
+        "source": "C:\\Elsa\\queen\\Paint2\\project\\app\\src\\main\\res\\layout\\adivery_native_ad_layout.xml"
+    },
+    {
+        "merged": "C:\\Elsa\\queen\\Paint2\\project\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Elsa\\queen\\Paint2\\project\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Elsa\\queen\\Paint2\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable_redo.png.flat",
+        "source": "C:\\Elsa\\queen\\Paint2\\project\\app\\src\\main\\res\\drawable\\redo.png"
+    },
+    {
+        "merged": "C:\\Elsa\\queen\\Paint2\\project\\app\\build\\intermediates\\res\\merged\\release\\layout_first.xml.flat",
+        "source": "C:\\Elsa\\queen\\Paint2\\project\\app\\src\\main\\res\\layout\\first.xml"
+    },
+    {
+        "merged": "C:\\Elsa\\queen\\Paint2\\project\\app\\build\\intermediates\\res\\merged\\release\\color_paintcolor.xml.flat",
+        "source": "C:\\Elsa\\queen\\Paint2\\project\\app\\src\\main\\res\\color\\paintcolor.xml"
+    },
+    {
+        "merged": "C:\\Elsa\\queen\\Paint2\\project\\app\\build\\intermediates\\res\\merged\\release\\raw_music.mp3.flat",
+        "source": "C:\\Elsa\\queen\\Paint2\\project\\app\\src\\main\\res\\raw\\music.mp3"
+    },
+    {
+        "merged": "C:\\Elsa\\queen\\Paint2\\project\\app\\build\\intermediates\\res\\merged\\release\\font_iransans.ttf.flat",
+        "source": "C:\\Elsa\\queen\\Paint2\\project\\app\\src\\main\\res\\font\\iransans.ttf"
+    },
+    {
+        "merged": "C:\\Elsa\\queen\\Paint2\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable_delete.png.flat",
+        "source": "C:\\Elsa\\queen\\Paint2\\project\\app\\src\\main\\res\\drawable\\delete.png"
+    },
+    {
+        "merged": "C:\\Elsa\\queen\\Paint2\\project\\app\\build\\intermediates\\res\\merged\\release\\anim_disappear.xml.flat",
+        "source": "C:\\Elsa\\queen\\Paint2\\project\\app\\src\\main\\res\\anim\\disappear.xml"
+    },
+    {
+        "merged": "C:\\Elsa\\queen\\Paint2\\project\\app\\build\\intermediates\\res\\merged\\release\\layout_dialog_update.xml.flat",
+        "source": "C:\\Elsa\\queen\\Paint2\\project\\app\\src\\main\\res\\layout\\dialog_update.xml"
+    },
+    {
+        "merged": "C:\\Elsa\\queen\\Paint2\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable_splash.png.flat",
+        "source": "C:\\Elsa\\queen\\Paint2\\project\\app\\src\\main\\res\\drawable\\splash.png"
+    },
+    {
+        "merged": "C:\\Elsa\\queen\\Paint2\\project\\app\\build\\intermediates\\res\\merged\\release\\anim_btnanim.xml.flat",
+        "source": "C:\\Elsa\\queen\\Paint2\\project\\app\\src\\main\\res\\anim\\btnanim.xml"
+    },
+    {
+        "merged": "C:\\Elsa\\queen\\Paint2\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable_next.png.flat",
+        "source": "C:\\Elsa\\queen\\Paint2\\project\\app\\src\\main\\res\\drawable\\next.png"
+    },
+    {
+        "merged": "C:\\Elsa\\queen\\Paint2\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable_prev.png.flat",
+        "source": "C:\\Elsa\\queen\\Paint2\\project\\app\\src\\main\\res\\drawable\\prev.png"
+    },
+    {
+        "merged": "C:\\Elsa\\queen\\Paint2\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable_color.png.flat",
+        "source": "C:\\Elsa\\queen\\Paint2\\project\\app\\src\\main\\res\\drawable\\color.png"
+    },
+    {
+        "merged": "C:\\Elsa\\queen\\Paint2\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable_undo.png.flat",
+        "source": "C:\\Elsa\\queen\\Paint2\\project\\app\\src\\main\\res\\drawable\\undo.png"
+    },
+    {
+        "merged": "C:\\Elsa\\queen\\Paint2\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable_save.png.flat",
+        "source": "C:\\Elsa\\queen\\Paint2\\project\\app\\src\\main\\res\\drawable\\save.png"
+    },
+    {
+        "merged": "C:\\Elsa\\queen\\Paint2\\project\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Elsa\\queen\\Paint2\\project\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Elsa\\queen\\Paint2\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable_star_yellow.png.flat",
+        "source": "C:\\Elsa\\queen\\Paint2\\project\\app\\src\\main\\res\\drawable\\star_yellow.png"
+    },
+    {
+        "merged": "C:\\Elsa\\queen\\Paint2\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable_rect.xml.flat",
+        "source": "C:\\Elsa\\queen\\Paint2\\project\\app\\src\\main\\res\\drawable\\rect.xml"
+    },
+    {
+        "merged": "C:\\Elsa\\queen\\Paint2\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic.png.flat",
+        "source": "C:\\Elsa\\queen\\Paint2\\project\\app\\src\\main\\res\\drawable-mdpi\\ic.png"
+    }
+]

@@ -1,0 +1,102 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.queen.musicPaint"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="17"
+8-->C:\Elsa\queen\Paint2\project\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->C:\Elsa\queen\Paint2\project\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+11-->C:\Elsa\queen\Paint2\project\app\src\main\AndroidManifest.xml:7:5-79
+11-->C:\Elsa\queen\Paint2\project\app\src\main\AndroidManifest.xml:7:22-76
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->C:\Elsa\queen\Paint2\project\app\src\main\AndroidManifest.xml:8:5-67
+12-->C:\Elsa\queen\Paint2\project\app\src\main\AndroidManifest.xml:8:22-64
+13    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+13-->C:\Elsa\queen\Paint2\project\app\src\main\AndroidManifest.xml:9:5-80
+13-->C:\Elsa\queen\Paint2\project\app\src\main\AndroidManifest.xml:9:22-78
+14
+15    <supports-screens android:requiresSmallestWidthDp="600" />
+15-->C:\Elsa\queen\Paint2\project\app\src\main\AndroidManifest.xml:10:5-13:11
+15-->C:\Elsa\queen\Paint2\project\app\src\main\AndroidManifest.xml:11:9-46
+16
+17    <application
+17-->C:\Elsa\queen\Paint2\project\app\src\main\AndroidManifest.xml:16:5-45:19
+18        android:name="com.queen.musicPaint.Apps"
+18-->C:\Elsa\queen\Paint2\project\app\src\main\AndroidManifest.xml:17:9-49
+19        android:allowBackup="true"
+19-->C:\Elsa\queen\Paint2\project\app\src\main\AndroidManifest.xml:19:9-35
+20        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+20-->[androidx.core:core:1.3.1] C:\Users\Mahsa\.gradle\caches\transforms-2\files-2.1\ae3468b444d41a56f261ecbb8448fe17\core-1.3.1\AndroidManifest.xml:24:18-86
+21        android:icon="@mipmap/ic_launcher"
+21-->C:\Elsa\queen\Paint2\project\app\src\main\AndroidManifest.xml:20:9-43
+22        android:label="@string/app_name"
+22-->C:\Elsa\queen\Paint2\project\app\src\main\AndroidManifest.xml:21:9-41
+23        android:networkSecurityConfig="@xml/config_net"
+23-->C:\Elsa\queen\Paint2\project\app\src\main\AndroidManifest.xml:18:9-56
+24        android:theme="@style/AppTheme" >
+24-->C:\Elsa\queen\Paint2\project\app\src\main\AndroidManifest.xml:22:9-40
+25        <activity
+25-->C:\Elsa\queen\Paint2\project\app\src\main\AndroidManifest.xml:24:9-34:20
+26            android:name="com.queen.musicPaint.FirstActivity"
+26-->C:\Elsa\queen\Paint2\project\app\src\main\AndroidManifest.xml:25:13-62
+27            android:label="@string/app_name"
+27-->C:\Elsa\queen\Paint2\project\app\src\main\AndroidManifest.xml:26:13-45
+28            android:screenOrientation="landscape"
+28-->C:\Elsa\queen\Paint2\project\app\src\main\AndroidManifest.xml:27:13-50
+29            android:theme="@style/SplashTheme" >
+29-->C:\Elsa\queen\Paint2\project\app\src\main\AndroidManifest.xml:28:13-47
+30            <intent-filter>
+30-->C:\Elsa\queen\Paint2\project\app\src\main\AndroidManifest.xml:29:13-33:29
+31                <action android:name="android.intent.action.MAIN" />
+31-->C:\Elsa\queen\Paint2\project\app\src\main\AndroidManifest.xml:30:17-69
+31-->C:\Elsa\queen\Paint2\project\app\src\main\AndroidManifest.xml:30:25-66
+32
+33                <category android:name="android.intent.category.LAUNCHER" />
+33-->C:\Elsa\queen\Paint2\project\app\src\main\AndroidManifest.xml:32:17-77
+33-->C:\Elsa\queen\Paint2\project\app\src\main\AndroidManifest.xml:32:27-74
+34            </intent-filter>
+35        </activity>
+36        <activity
+36-->C:\Elsa\queen\Paint2\project\app\src\main\AndroidManifest.xml:38:9-43:20
+37            android:name="com.queen.musicPaint.Paint_Activity"
+37-->C:\Elsa\queen\Paint2\project\app\src\main\AndroidManifest.xml:39:13-63
+38            android:label="@string/app_name"
+38-->C:\Elsa\queen\Paint2\project\app\src\main\AndroidManifest.xml:40:13-45
+39            android:screenOrientation="landscape"
+39-->C:\Elsa\queen\Paint2\project\app\src\main\AndroidManifest.xml:41:13-50
+40            android:theme="@style/AppTheme" >
+40-->C:\Elsa\queen\Paint2\project\app\src\main\AndroidManifest.xml:42:13-44
+41        </activity>
+42
+43        <meta-data
+43-->[com.adivery:sdk:4.1.4] C:\Users\Mahsa\.gradle\caches\transforms-2\files-2.1\2d2d2fc8820ebc57598719fbbab4b735\jetified-sdk-4.1.4\AndroidManifest.xml:15:9-17:36
+44            android:name="com.google.android.gms.ads.AD_MANAGER_APP"
+44-->[com.adivery:sdk:4.1.4] C:\Users\Mahsa\.gradle\caches\transforms-2\files-2.1\2d2d2fc8820ebc57598719fbbab4b735\jetified-sdk-4.1.4\AndroidManifest.xml:16:13-69
+45            android:value="true" />
+45-->[com.adivery:sdk:4.1.4] C:\Users\Mahsa\.gradle\caches\transforms-2\files-2.1\2d2d2fc8820ebc57598719fbbab4b735\jetified-sdk-4.1.4\AndroidManifest.xml:17:13-33
+46
+47        <activity
+47-->[com.adivery:sdk:4.1.4] C:\Users\Mahsa\.gradle\caches\transforms-2\files-2.1\2d2d2fc8820ebc57598719fbbab4b735\jetified-sdk-4.1.4\AndroidManifest.xml:19:9-21:55
+48            android:name="com.adivery.sdk.networks.adivery.AdActivity"
+48-->[com.adivery:sdk:4.1.4] C:\Users\Mahsa\.gradle\caches\transforms-2\files-2.1\2d2d2fc8820ebc57598719fbbab4b735\jetified-sdk-4.1.4\AndroidManifest.xml:20:13-71
+49            android:screenOrientation="unspecified" />
+49-->[com.adivery:sdk:4.1.4] C:\Users\Mahsa\.gradle\caches\transforms-2\files-2.1\2d2d2fc8820ebc57598719fbbab4b735\jetified-sdk-4.1.4\AndroidManifest.xml:21:13-52
+50
+51        <provider
+51-->[androidx.lifecycle:lifecycle-process:2.3.1] C:\Users\Mahsa\.gradle\caches\transforms-2\files-2.1\987a493bb5bcef3685521293e01400e0\jetified-lifecycle-process-2.3.1\AndroidManifest.xml:25:9-29:43
+52            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+52-->[androidx.lifecycle:lifecycle-process:2.3.1] C:\Users\Mahsa\.gradle\caches\transforms-2\files-2.1\987a493bb5bcef3685521293e01400e0\jetified-lifecycle-process-2.3.1\AndroidManifest.xml:26:13-79
+53            android:authorities="com.queen.musicPaint.lifecycle-process"
+53-->[androidx.lifecycle:lifecycle-process:2.3.1] C:\Users\Mahsa\.gradle\caches\transforms-2\files-2.1\987a493bb5bcef3685521293e01400e0\jetified-lifecycle-process-2.3.1\AndroidManifest.xml:27:13-69
+54            android:exported="false"
+54-->[androidx.lifecycle:lifecycle-process:2.3.1] C:\Users\Mahsa\.gradle\caches\transforms-2\files-2.1\987a493bb5bcef3685521293e01400e0\jetified-lifecycle-process-2.3.1\AndroidManifest.xml:28:13-37
+55            android:multiprocess="true" />
+55-->[androidx.lifecycle:lifecycle-process:2.3.1] C:\Users\Mahsa\.gradle\caches\transforms-2\files-2.1\987a493bb5bcef3685521293e01400e0\jetified-lifecycle-process-2.3.1\AndroidManifest.xml:29:13-40
+56    </application>
+57
+58</manifest>

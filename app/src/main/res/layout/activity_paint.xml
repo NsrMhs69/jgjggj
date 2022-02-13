@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/lib/com.google.ads"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/relativelayout1"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@android:color/white"
+    android:gravity="right">
+
+    <RelativeLayout
+        android:id="@+id/paint_rl"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentBottom="true"
+        android:layout_toLeftOf="@+id/scrollView1"
+        android:background="#fff" >
+    </RelativeLayout>
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="@dimen/_55sdp"
+        android:layout_height="match_parent"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:background="@drawable/bg" >
+
+        <LinearLayout
+            android:id="@+id/tool"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:orientation="vertical" >
+
+            
+     
+            
+           <ImageView
+                android:id="@+id/savebtn"
+                android:layout_width="@dimen/_45sdp"
+                android:layout_height="@dimen/_45sdp"
+               android:padding="@dimen/_2sdp"
+                android:src="@drawable/save"
+                android:layout_weight="1"
+                android:textColor="@android:color/white" />
+               
+
+
+            <ImageView
+                android:id="@+id/penbtn"
+                android:layout_width="@dimen/_45sdp"
+                android:layout_height="@dimen/_45sdp"
+                android:src="@drawable/pen"
+                android:layout_weight="1"
+                android:padding="@dimen/_2sdp"
+                android:textColor="@android:color/white" />
+
+            <ImageView
+                android:id="@+id/colorbtn"
+                android:layout_width="@dimen/_45sdp"
+                android:layout_height="@dimen/_45sdp"
+                android:src="@drawable/color"
+                android:layout_weight="1"
+                android:padding="@dimen/_2sdp"
+                android:textColor="@android:color/white" />
+
+            <ImageView
+                android:id="@+id/undobtn"
+                android:layout_width="@dimen/_45sdp"
+                android:layout_height="@dimen/_45sdp"
+                android:src="@drawable/undo"
+                android:layout_weight="1"
+                android:padding="@dimen/_2sdp"
+                android:textColor="@android:color/white" />
+
+            <ImageView
+                android:id="@+id/redobtn"
+                android:layout_width="@dimen/_45sdp"
+                android:layout_height="@dimen/_45sdp"
+                android:src="@drawable/redo"
+                android:layout_weight="1"
+                android:padding="@dimen/_2sdp"
+                android:textColor="@android:color/white" />
+
+            <ImageView
+                android:id="@+id/deletebtn"
+                android:layout_width="@dimen/_45sdp"
+                android:layout_height="@dimen/_45sdp"
+                android:layout_weight="1"
+                android:padding="@dimen/_2sdp"
+                android:src="@drawable/delete"
+                android:textColor="@android:color/white" />
+
+
+           
+        </LinearLayout>
+    </ScrollView>
+
+    <com.adivery.sdk.AdiveryNativeAdView
+        android:id="@+id/native_ad_view"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_45sdp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_toLeftOf="@+id/scrollView1"
+        android:gravity="center_horizontal"
+        app:placement_id="@string/nativeBanner"
+        app:adivery_native_ad_layout="@layout/adivery_native_ad_layout"
+        android:visibility="invisible"
+        />
+
+
+
+</RelativeLayout>
